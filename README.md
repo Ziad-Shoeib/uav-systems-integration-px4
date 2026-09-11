@@ -63,12 +63,87 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 ## Sensors & Peripherals
 
 The platform included several communication and sensing components that I configured and tested:
-
-- Holybro SiK telemetry radio
-- RadioMaster TX16S transmitter/receiver
 - Optical-flow sensor
 - RGB camera
-- FPV camera and air unit
+- Holybro SiK telemetry radio with FPV camera and air unit
+- Wireless Telemetry
+- RadioMaster TX16S transmitter/receiver
+
+### ARK Flow MR: Optical Flow and Range Sensing
+<p align="center">
+  <img src="assets/arc_flow_main.jpg" width="750">
+</p>
+
+<p align="center">
+  <em>ARK Flow MR optical-flow and range-sensing module used for onboard motion and distance estimation.</em>
+</p>
+
+<p align="center">
+  <img src="assets/ARC_PARAMS_ALL.png" width="750">
+</p>
+
+<p align="center">
+  <em>PX4 parameter configuration for ARK Flow MR integration, including optical-flow, rangefinder, EKF2, and UAVCAN settings.</em>
+</p>
+
+<p align="center">
+  <img src="assets/ARC_PARAMS_DISTANCE_TEST.jpeg" width="750">
+</p>
+
+<p align="center">
+  <em>Live ARK Flow MR range-sensor verification in QGroundControl using MAVLink Inspector, showing real-time DISTANCE_SENSOR measurements.</em>
+</p>
+
+### RGB Camera and Jetson Integration
+<p align="center">
+  <img src="assets/camera_working.jpeg" width="750">
+</p>
+
+<p align="center">
+  <em>RGB camera integration and live video-stream verification on the NVIDIA Jetson companion computer.</em>
+</p>
+
+
+### SIYI MK15 FPV and Camera System
+
+- Integrated the SIYI air unit, dual-camera setup, ground controller, and Jetson-Pixhawk platform for live FPV/video monitoring and onboard system integration.
+
+<p align="center">
+  <img src="assets/SIYI_full_setup_norc.PNG" width="750">
+</p>
+
+<p align="center">
+  <em>SIYI MK15 FPV system integration with the Jetson-Pixhawk platform, showing the air unit, dual-camera setup, power distribution, telemetry/data connection, and ground controller video feed.</em>
+</p>
+
+### Wireless Telemetry and QGroundControl
+<p align="center">
+  <img src="assets/telem_QGC.png" width="750">
+</p>
+
+<p align="center">
+  <em>Wireless telemetry link setup between the Pixhawk flight controller and ground station for QGroundControl communication.</em>
+</p>
+
+### RadioMaster TX16S and RC Receiver
+<p align="center">
+  <img src="assets/RC_controller.jpeg" width="750">
+</p>
+
+<p align="center">
+  <em>RadioMaster TX16S transmitter configured for manual UAV control and failsafe operation.</em>
+</p>
+
+<p align="center">
+  <img src="assets/rc_connec.PNG" width="750">
+</p>
+
+<p align="center">
+  <em>RC receiver integration through the S.Bus interface, connecting the air unit to the Jetson-Pixhawk platform for manual control input.</em>
+</p>
+
+
+ 
 
 ---
 
