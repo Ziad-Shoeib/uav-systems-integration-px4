@@ -21,7 +21,7 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 <p align="center">
 <img src="assets/Just_pixhawk.jpeg" width="50%">
 <img src="assets/Jusr_Jetson.jpeg" width="35%">
-<img src="assets/hexa_assembled.jpg" width="750">
+<img src="assets/hexa_assembled.jpg" width="730">
 </p>
 
 ---
