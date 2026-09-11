@@ -35,7 +35,7 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 - Debugged networking, telemetry, and companion-computer synchronization issues.
 
 <p align="center">
-  <img src="images/Moving_flight.gif" width="750">
+  <img src="assets/Moving_flight.gif" width="750">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 </p>
 
 <p align="center">
-  <img src="images/off_board.png" width="750">
+  <img src="assets/off_board.png" width="750">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 </p>
 
 <p align="center">
-  <img src="images/ros_setup29.png" width="750">
+  <img src="assets/ros_setup29.png" width="750">
 </p>
 
 <p align="center">
