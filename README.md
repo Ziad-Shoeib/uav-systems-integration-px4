@@ -45,17 +45,17 @@ The platform included several communication and sensing components that I config
 ## Mounting Hardware Design and Flight Testing
 - Designed and adapted mounting hardware for the onboard electronics and was responsible for the fabrication process.
 - The designs included:
- - Pixhawk 6X pro mounting plate
- - Jetson-Pixhawk mounting plate
- - ARC Flow MR mounting plate
+  - Pixhawk 6X pro mounting plate
+  - Jetson-Pixhawk mounting plate
+  - ARC Flow MR mounting plate
 
 - Flight Testing included:
- - Progressed the UAV platform from bench integration to flight testing.
- - Performed vehicle configuration and calibration.
- - Verified communication links and system connectivity.
- - Conducted flight tests and evaluated system behavior.
- - Troubleshot issues encountered during unsuccessful tests.
- - Repaired or replaced damaged components when required.   
+  - Progressed the UAV platform from bench integration to flight testing.
+  - Performed vehicle configuration and calibration.
+  - Verified communication links and system connectivity.
+  - Conducted flight tests and evaluated system behavior.
+  - Troubleshot issues encountered during unsuccessful tests.
+  - Repaired or replaced damaged components when required.   
 
 
 
