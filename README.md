@@ -34,6 +34,30 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 - Worked with QGroundControl for vehicle configuration and telemetry.
 - Debugged networking, telemetry, and companion-computer synchronization issues.
 
+<p align="center">
+  <img src="images/Moving_flight.gif" width="750">
+</p>
+
+<p align="center">
+  <em>QGroundControl connection and telemetry monitoring during PX4 vehicle testing.</em>
+</p>
+
+<p align="center">
+  <img src="images/off_board.png" width="750">
+</p>
+
+<p align="center">
+  <em>PX4 offboard-control testing with ROS 2, Gazebo Sim, and QGroundControl.</em>
+</p>
+
+<p align="center">
+  <img src="images/ros_setup29.png" width="750">
+</p>
+
+<p align="center">
+  <em>ROS 2–PX4 communication verification through XRCE-DDS, showing PX4 topics and live sensor data.</em>
+</p>
+
 ---
 
 ## Sensors & Peripherals
