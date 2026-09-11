@@ -3,7 +3,7 @@
 This repository summarizes my hands-on work with UAV hardware, onboard computing, PX4, and ROS 2 at the ARM4L Lab in IRC-SML at KFUPM. My work focused on assembling and configuring a hexacopter autonomy platform built around a Pixhawk/PX4 flight controller and NVIDIA Jetson companion computer, integrating communication and sensing hardware, and establishing the software infrastructure for autonomous flight experiments. I also worked with SITL/HIL simulation, flight testing, calibration, and system-level debugging.
 
 <p align="center">
-<img src="assets/Hexa_flying_overview.jpeg" width="750">
+<img src="assets/Hexa_flying_overview.jpeg" width="850">
 </p>
 
 
