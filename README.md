@@ -153,6 +153,30 @@ The platform included several communication and sensing components that I config
   - Pixhawk 6X pro mounting plate
   - Jetson-Pixhawk mounting plate
   - ARC Flow MR mounting plate
+ 
+<p align="center">
+  <img src="assets/Jetson_plate_design.PNG" width="750">
+</p>
+
+<p align="center">
+  <em>SolidWorks design of the custom mounting plate for the Jetson-Pixhawk onboard computing and flight-control assembly.</em>
+</p>
+
+<p align="center">
+  <img src="assets/ARC_plate_Printed.jpeg" width="750">
+</p>
+
+<p align="center">
+  <em>3D-printed mounting-plate prototypes developed for integrating the ARK Flow MR module with the UAV frame.</em>
+</p>
+
+<p align="center">
+  <img src="assets/case_v2_1.jpeg" width="750">
+</p>
+
+<p align="center">
+  <em>Installed Pixhawk and ARK Flow MR assemblies on the UAV using the custom-designed mounting plates.</em>
+</p>
 
 - Flight Testing included:
   - Progressed the UAV platform from bench integration to flight testing.
@@ -162,6 +186,21 @@ The platform included several communication and sensing components that I config
   - Troubleshot issues encountered during unsuccessful tests.
   - Repaired or replaced damaged components when required.   
 
+<p align="center">
+  <img src="assets/airframe_1.jpg" width="750">
+</p>
+
+<p align="center">
+  <em>PX4 airframe selection and geometry configuration in QGroundControl for the UAV platform.</em>
+</p>
+
+<p align="center">
+  <img src="assets/motor_2.png" width="750">
+</p>
+
+<p align="center">
+  <em>PX4 actuator configuration and motor assignment in QGroundControl, including output mapping and motor spin-direction verification.</em>
+</p>
 
 
 ---
