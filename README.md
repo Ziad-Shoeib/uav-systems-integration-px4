@@ -16,7 +16,7 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 - Configured telemetry and manual RC control for flight testing and failsafe operation.
 - Integrated optical-flow, RGB, and FPV sensing hardware.
 - Performed flight-controller configuration, calibration, flight testing, and hardware troubleshooting.
-- Prepared documentation for each of the steps for reproducibility.
+- Prepared documentation for each of the steps for reproducibility, such as [PX4 and ROS2 Integration](ros2_px4_pixhawk_guide.md).
 
 <p align="center">
 <img src="assets/Just_pixhawk.jpeg" width="50%">
