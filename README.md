@@ -19,7 +19,7 @@ This repository summarizes my hands-on work with UAV hardware, onboard computing
 - Prepared documentation for each of the steps for reproducibility.
 
 <p align="center">
-<img src="assets/Just_pixhawk.jpeg" width="75%">
+<img src="assets/Just_pixhawk.jpeg" width="55%">
 <img src="assets/Jusr_Jetson.jpeg" width="45%">
 <img src="assets/hexa_assembled.jpg" width="650">
 </p>
