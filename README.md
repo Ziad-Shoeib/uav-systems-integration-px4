@@ -208,3 +208,11 @@ The platform included several communication and sensing components that I config
 ### FPV Drone Racing
 
 Separately, I designed and assembled a custom FPV quadcopter from the frame and individual components and competed using Betaflight. I placed 2nd in the 8th International FPV Drone Racing Competition at the Military Technical College, Egypt, in August 2024.
+
+<p align="center">
+  <img src="assets/FPV_drone.jpg" width="750">
+</p>
+
+<p align="center">
+  <img src="assets/FPV_drone_win.jpg" width="750">
+</p>
