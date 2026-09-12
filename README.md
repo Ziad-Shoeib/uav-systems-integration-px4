@@ -187,7 +187,7 @@ The platform included several communication and sensing components that I config
   - Repaired or replaced damaged components when required.   
 
 <p align="center">
-  <img src="assets/airframe_1.jpg" width="550">
+  <img src="assets/airframe_1.jpg" width="750">
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ The platform included several communication and sensing components that I config
 </p>
 
 <p align="center">
-  <img src="assets/motor_2.png" width="750">
+  <img src="assets/motor_2.png" width="550">
 </p>
 
 <p align="center">
