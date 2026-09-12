@@ -127,7 +127,7 @@ The platform included several communication and sensing components that I config
 
 ### RadioMaster TX16S and RC Receiver
 <p align="center">
-  <img src="assets/RC_controller.jpeg" width="750">
+  <img src="assets/RC_controller.jpeg" width="650">
 </p>
 
 <p align="center">
