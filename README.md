@@ -155,7 +155,7 @@ The platform included several communication and sensing components that I config
   - ARC Flow MR mounting plate
  
 <p align="center">
-  <img src="assets/Jetson_plate_design.PNG" width="750">
+  <img src="assets/Jetson_plate_design.PNG" width="450">
 </p>
 
 <p align="center">
@@ -187,7 +187,7 @@ The platform included several communication and sensing components that I config
   - Repaired or replaced damaged components when required.   
 
 <p align="center">
-  <img src="assets/airframe_1.jpg" width="750">
+  <img src="assets/airframe_1.jpg" width="550">
 </p>
 
 <p align="center">
